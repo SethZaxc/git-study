@@ -1,0 +1,7 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "files.associations": {
+        "iostream": "cpp",
+        "stdexcept": "cpp"
+    }
+}
