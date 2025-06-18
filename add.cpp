@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-  std::cout << "add 1" << std::endl;
+  std::cout << "version 20" << std::endl;
   return 0;
 }
